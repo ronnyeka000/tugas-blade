@@ -13,7 +13,7 @@
     <title>@yield('title')</title>
 </head>
 
-<body>
+<body class="bg-warning">
 
     @include('partials.navbar')
 
